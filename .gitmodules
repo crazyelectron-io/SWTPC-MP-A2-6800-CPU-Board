@@ -1,0 +1,3 @@
+[submodule "library/custom_parts"]
+	path = library/custom_parts
+	url = https://github.com/crazyelectron-io/KiCAD_custom_parts.git
